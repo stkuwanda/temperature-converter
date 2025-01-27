@@ -9,3 +9,6 @@ function celsiusToFahrenheit(celsius) {
 }
 
 module.exports = { fahrenheitToCelsius, celsiusToFahrenheit };
+
+// $ node --print "require('./').fahrenheitToCelsius(100)"
+// $ node --print "require('./').celsiusToFahrenheit(37.7778)"
