@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/stkuwanda/temperature-converter/issues"
   },
-  "homepage": "https://github.com/stkuwanda/temperature-converter#readme"
+  "homepage": "https://github.com/stkuwanda/temperature-converter#readme",
+  "devDependencies": {
+    "semistandard": "17.0.0"
+  }
 }
