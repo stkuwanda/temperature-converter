@@ -1,6 +1,6 @@
 {
-  "name": "temperature-converter",
-  "version": "0.1.0",
+  "name": "@stkuwanda/temperature-converter",
+  "version": "1.0.0",
   "description": "Convert temperatures between Fahrenheit and Celsius units.",
   "main": "index.js",
   "scripts": {
