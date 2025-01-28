@@ -4,6 +4,7 @@
   "description": "Convert temperatures between Fahrenheit and Celsius units.",
   "main": "index.js",
   "scripts": {
+    "prepublishOnly": "npm run lint && npm test",
     "lint": "semistandard *.js",
     "test": "node test.js"
   },
